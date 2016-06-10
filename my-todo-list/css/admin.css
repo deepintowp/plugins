@@ -1,0 +1,8 @@
+.warp.metboxes_container{
+	
+}
+.warp.metboxes_container .single_metbox{}
+.warp.metboxes_container .single_metbox label{font-size:20px; font-weight:700;}
+.warp.metboxes_container .single_metbox  input, .warp.metboxes_container .single_metbox  select{
+	margin:10px;
+} 

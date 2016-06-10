@@ -1,0 +1,16 @@
+.repo {
+	display:block;
+	margin:10px 0;
+	padding:0 20px;
+}
+.repo .repo-name{margin: 20px 0}
+
+.repo .repo-name a{color:#009688;
+	font-weight:700;
+	margin-left:4px;
+}
+.repo .repo-name a:hover{color:#4CAF50;}
+ .repo-description{
+	 margin: 10px 0;
+	padding: 0 20px;
+}
